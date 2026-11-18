@@ -18,16 +18,16 @@
       
       "OpenAdNetwork"      : "admob",
       
-      "AdInterval"         : 1,
+      "AdInterval"         : 2,
       
-      "NativeAdRow"        : 5,
+      "NativeAdRow"        : 10,
 
       "AdPlacement": {
         
-        "AdMobBanner"         : "ca-app-pub-6953444308306842/8288236240",
-        "AdMobInterstitial"   : "ca-app-pub-6953444308306842/1563045798",
-        "AdMobNative"         : "ca-app-pub-6953444308306842/2528944425",
-        "AdMobOpenAd"         : "ca-app-pub-6953444308306842/4697928293",
+        "AdMobBanner"         : "ca-app-pub-6953444308306842/82882362400",
+        "AdMobInterstitial"   : "ca-app-pub-6953444308306842/15630457980",
+        "AdMobNative"         : "ca-app-pub-6953444308306842/25289444250",
+        "AdMobOpenAd"         : "ca-app-pub-6953444308306842/46979282930",
         
         "FacebookBanner"      : "439621897502588_1284400043024765",
         "FacebookInterstitial": "439621897502588_1284400353024734",
@@ -115,18 +115,6 @@
       "packageName": "com.mayada.gamarddin.hugetech",
       "icon": "https://play-lh.googleusercontent.com/CnDjiacM_ImdefjaLVE7z1ASipGFaxDHHWGYriOk9QbKKCVyhXJ3wSqGsRjZ5Mw69RQ=w240-h480-rw",
       "download": "+480K"
-    },
-    {
-      "name": "ASIA BANNA",
-      "packageName": "com.asia.banna.bouchinc",
-      "icon": "https://play-lh.googleusercontent.com/kvv5oPZokAvDm6wO6DmHRYFFKjLWsAoY7vUtyE0XKLg9uHcc7u2bOVbrwj2FPZ_QQw=w240-h480-rw",
-      "download": "+520K"
-    },
-    {
-      "name": "AHMED AMIN",
-      "packageName": "com.ahmed.amin.hugetech",
-      "icon": "https://play-lh.googleusercontent.com/h26Vk-502LXZuUHitWslFxDryYiawjJNB9zCNTNijKNfih5pWpoSYsk56LShqku8OQ=w240-h480-rw",
-      "download": "+850K"
     }
   ]
   
